@@ -28,6 +28,7 @@ module.exports = {
 };
 ```
 
+
 ## Extending or Overriding
 
 If you need to override specific Prettier options, you can do so in your own config file. See the [Prettier documentation](https://prettier.io/docs/en/configuration.html) for more details.
